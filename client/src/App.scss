@@ -1,3 +1,17 @@
+$primary: #37393a;
+$secondary: #e8eef2;
+$text: #eb5a17;
+$pairfound: #77b6ea;
+
+h1 {
+  margin: 10px;
+  color: $primary;
+  text-shadow: 1px 1px 4px $primary;
+}
+h2 {
+  margin: 10px;
+  color: $text;
+}
 .App {
   text-align: center;
 }
