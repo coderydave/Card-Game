@@ -1,1 +1,12 @@
 @import "../../App.scss";
+
+.header {
+  background-image: url(../../assets/images/banner.PNG);
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 4vw;
+  box-shadow: 2px 2px 4px $primary;
+}
